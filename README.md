@@ -160,6 +160,7 @@ Hint: file somewhere in the server and has all of the following properties: owne
 
 
 
+![image](https://github.com/user-attachments/assets/8a0a434b-183a-4b0d-88b5-ce13fb8685c2)
 
 
 
